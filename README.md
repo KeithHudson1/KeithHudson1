@@ -1,18 +1,21 @@
 <h1>Hello, I'm Keith! I'm a <a href="https://www.linkedin.com/in/keithhudson123/">Software Developer</a> <br/>
 
-I will be adding my projects here at a later time. 
+I will be adding my projects here as time permits. 
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
 - <b>Java</b>
-  - [Scheduling App] (https://github.com/keithhudson1)
-  - [Product Inventory Manager] (https://github.com/keithhudson1)
+  - [Scheduling App](https://github.com/KeithHudson1/JavaSchedulingApp)
+    - JavaFX, JDBC, MySQL, IntelliJ
+  - Product Inventory Manager (To be added at a later time)
+    - JavaFX
   
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/keithhudson1)
+  - Package Delivery Application (Datastructures and Algorithms Demo  (To be added at a later time)
 
 - <b>C++</b>
-  - [Roster App] (https://github.com/keithhudson1)
+  - Roster App (To be added at a later time)
 
 <h2> 🤳 Connect with me:</h2>
 
