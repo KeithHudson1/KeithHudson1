@@ -1,7 +1,5 @@
 <h1>Hello, I'm Keith! I'm a <a href="https://www.linkedin.com/in/keithhudson123/">Software Developer</a> <br/>
 
-I will be adding my projects here as time permits. 
-
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
@@ -12,7 +10,7 @@ I will be adding my projects here as time permits.
   
 
 - <b>Python</b>
-  - Package Delivery Application (Datastructures and Algorithms Demo  (To be added at a later time)
+  - Package Delivery Application (Datastructures and Algorithms Demo)  (To be added at a later time)
 
 - <b>C++</b>
   - Roster App (To be added at a later time)
